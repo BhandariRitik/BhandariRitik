@@ -1,3 +1,1 @@
-<p align="center">
-<h1> Hi there, I'm RItik </h1>
-</p>
+<h1 align= "center"> Hi there, I'm RItik </h1>
