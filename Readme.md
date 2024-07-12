@@ -1,1 +1,3 @@
-### Hi, there I'm Ritik
+<p align="center">
+<h1> Hi there, I'm RItik </h1>
+</p>
