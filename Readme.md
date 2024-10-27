@@ -1,11 +1,10 @@
 <h1 align= "center"> Hi there, I'm RItik </h1>
-<h3 align= "center"> Aspiring Data Analyst </h3>
+<h3 align= "center"> Data Analyst </h3>
 
 
-
-- Currently Learning Power BI, Excel, SQL
-- How to reach me [ritikbhandari.wk@gmail.com](mailto:ritikbhandari.wk@gmail.com)
 - Commerce graduate passionate about transforming data into actionable insights and compelling stories.
+- How to reach me [ritikbhandari.wk@gmail.com](mailto:ritikbhandari.wk@gmail.com)
+
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/ritik-bhandari-4a7a3b30b/" target="_blank">
