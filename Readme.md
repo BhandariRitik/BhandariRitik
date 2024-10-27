@@ -2,7 +2,8 @@
 <h3 align= "center"> Data Analyst </h3>
 
 
-- Commerce graduate passionate about transforming data into actionable insights and compelling stories.
+- Commerce graduate passionate about business and data, driven to transform complex data into actionable 
+  insights that solve real-world problems and drive impactful decisions.
 - How to reach me [ritikbhandari.wk@gmail.com](mailto:ritikbhandari.wk@gmail.com)
 
 
