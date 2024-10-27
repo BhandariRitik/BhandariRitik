@@ -1,4 +1,4 @@
-![logo](https://github.com/BhandariRitik/BhandariRitik/blob/main/githubbanner.img.jpg)
+![logo](https://github.com/BhandariRitik/BhandariRitik/blob/main/banner.image.jpg)
 <h1 align= "center"> Hi, I'm Ritik Bhandari </h1>
 <h3 align= "center"> Data Analyst </h3>
 
