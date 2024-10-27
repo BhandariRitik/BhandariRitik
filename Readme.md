@@ -1,4 +1,4 @@
-<h1 align= "center"> Hi there, I'm Ritik </h1>
+<h1 align= "center"> Hi, I'm Ritik Bhandari </h1>
 <h3 align= "center"> Data Analyst </h3>
 
 
